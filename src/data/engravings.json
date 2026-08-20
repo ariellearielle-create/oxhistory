@@ -17,21 +17,21 @@
     "image": "/engravings/bodleian.webp",
     "title": "The Bodleian Library",
     "year": "opened 1602",
-    "context": "Founded by Sir Thomas Bodley, the 'Boduleian' is one of the oldest libraries in Europe and a legal deposit library — entitled to a copy of every book published in Britain.",
+    "context": "Founded by Sir Thomas Bodley, the Bodleian is one of the oldest libraries in Europe and a legal deposit library — entitled to a copy of every book published in Britain.",
     "credit": "Wellcome Collection"
   },
   "magdalen": {
     "image": "/engravings/magdalen.webp",
     "title": "Magdalen College Tower",
     "year": "completed 1509",
-    "context": "The Great Tower stands over the River Cherwell. Every May Morning, the college choir sings from its top at 6am to crowds gathered on Magdalen Bridge below.",
+    "context": "The bell tower stands over the River Cherwell. Every May first, the college choir sings from its top at 6am to crowds gathered below.",
     "credit": "Wellcome Collection"
   },
   "clarendon": {
     "image": "/engravings/clarendon.webp",
     "title": "The Clarendon Building",
     "year": "1711–1715",
-    "context": "Designed by Nicholas Hawksmoor and built to house the Oxford University Press, funded partly by profits from the Earl of Clarendon's 'History of the Rebellion'.",
+    "context": "Designed by Nicholas Hawksmoor and built to house the Oxford University Press, funded partly by profits from the Earl of Clarendon's 'The History of the Rebellion,' a record of the British Civil Wars.",
     "credit": "Wellcome Collection"
   }
 }
